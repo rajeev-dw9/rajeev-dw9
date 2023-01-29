@@ -10,13 +10,12 @@
 - 📫 How to reach me: Mail at [rajeev@iiserb.ac.in](rajeev@iiserb.ac.in) or [LinkedIn](https://www.linkedin.com/in/rrd27/).
 - 😄 Pronouns : He/Him
 
-Check out my [webpage](https://rajeev-dw9.github.io/) to know more about me !
+Check out my [webpage](https://rajeev-dw9.github.io/) to know more about me!
 
-[![Twitter Badge](https://twitter.com/RajeevRanjanDw3)
-
-[![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=rajeev-dw9&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-dw9&layout=compact&theme=radical)]
+[![Twitter Badge](https://img.shields.io/badge/follow-@RajeevRanjanDw3-1DA1F2.svg?style=social&logo=twitter)](https://twitter.com/RajeevRanjanDw3)
 ![Visitors:](https://visitor-badge.glitch.me/badge?page_id=rajeev-dw9.rajeev-dw9)
+[![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=rajeev-dw9&show_icons=true&theme=radical)](https://github.com/rajeev-dw9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-dw9&layout=compact&theme=radical)](https://github.com/rajeev-dw9)
 
 
 
