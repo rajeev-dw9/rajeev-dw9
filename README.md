@@ -16,7 +16,6 @@ Check out my [webpage](https://rajeev-dw9.github.io/) to know more about me !
 
 [![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=rajeev-dw9&show_icons=true&theme=radical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-dw9&layout=compact&theme=radical)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeev-dw9&repo=Deep-Learning-Projects&theme=radical)]
 ![Visitors:](https://visitor-badge.glitch.me/badge?page_id=rajeev-dw9.rajeev-dw9)
 
 
