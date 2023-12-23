@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on anything related to Deep Learning, Computer Vision, Fair Learning(Bias Free Learning) and NLP.
 - 💬 Let's grab coffee and talk about tech, data, startups, or any other mutual interests.
-- 📫 How to reach me: Mail at [rajeev@iiserb.ac.in](rajeev22@iiserb.ac.in) or [LinkedIn](https://www.linkedin.com/in/rrd27/).
+- 📫 How to reach me: Mail at [mail](rajeev22@iiserb.ac.in) or [LinkedIn](https://www.linkedin.com/in/rrd27/).
 - 😄 Pronouns : He/Him
 
 Check out my [webpage](https://rajeev-dw9.github.io/) to know more about me!
