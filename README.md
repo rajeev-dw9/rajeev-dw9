@@ -3,7 +3,7 @@
 - My name is Rajeev and I am a PhD student in Data Science and Engineering at IISER Bhopal.
 
 - My academic background includes a Bachelor's and Master's in Statistics with minors in Economics, Computer Science, and Mathematics.
-- My research interests are in Computer Vision and Deep Learning, with a focus on Domain Adaptation and Transfer Learning.
+- My research interests are in Computer Vision and Deep Learning, with a focus on Fairness in AI, Domain Adaptation and Transfer Learning.
 
 - 👯 I’m looking to collaborate on anything related to Deep Learning, Computer Vision, Fair Learning(Bias Free Learning) and NLP.
 - 💬 Let's grab coffee and talk about tech, data, startups, or any other mutual interests.
